@@ -1,0 +1,6 @@
+Archivist	Instrument	Dataset
+Main	ncds_covid_q2	ncds_covid_q2
+Main	ns_covid_q2	ncds_covid_q2
+Main	bcs_covid_q2	ncds_covid_q2
+Main	mcs_covid_pq2	ncds_covid_q2
+Main	mcs_covid_cmq2	ncds_covid_q2
